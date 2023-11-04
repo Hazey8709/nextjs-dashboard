@@ -20,7 +20,7 @@ export async function fetchRevenue() {
     noStore();
 
     try {
-        // Artificially delay a reponse for demo purposes.
+        // Artificially delay a response for demo purposes.
         // Don't do this in real life :)
 
         // console.log("Fetching revenue data...");
